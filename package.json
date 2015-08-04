@@ -1,0 +1,28 @@
+{
+  "name": "ce-option",
+  "version": "1.0.0",
+  "description": "Computational effect - optional value",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "computational",
+    "effect",
+    "option",
+    "optional",
+    "some",
+    "none",
+    "maybe",
+    "just",
+    "nothing"
+  ],
+  "author": "Hardy Jones <jones3.hardy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ce-mixin": "^1.0.2",
+    "ce-sum": "^1.0.0",
+    "ce-unit": "^1.0.0",
+    "pbp": "^1.0.0"
+  }
+}
